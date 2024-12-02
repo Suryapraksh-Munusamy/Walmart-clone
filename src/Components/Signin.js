@@ -56,7 +56,7 @@ const Signin = () => {
     }
 
     return (
-        <div className="container containerq d-flex flex-column justify-content-center align-items-center">
+        <div className="container container-new d-flex flex-column justify-content-center align-items-center">
             {/* Success message */}
             {Object.keys(formErrors).length === 0 && isSubmit && (
                 <div className='ui message success'>Signed in Successfully</div>
