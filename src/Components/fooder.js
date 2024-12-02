@@ -44,7 +44,7 @@ const fooder = () => {
   )
 }
 
-export default fooder
+export default fooder;
 
 
 

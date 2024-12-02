@@ -5,7 +5,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-  @@ -15,8 +20,8 @@ body {
+   @@ -15,8 +20,8 @@ body { 
   }
   .containerq > form {
     width: 70%;
@@ -20,5 +20,4 @@
   .red {
     color:red
   }
-    color: red;
-  }
+  
